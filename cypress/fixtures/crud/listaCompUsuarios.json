@@ -1,0 +1,42 @@
+[{
+    "id": "97258ca4-096b-4407-b18a-fb5126ee31dd",
+    "name": "Dionatan da Rosa",
+    "email": "dionatan@teste.com",
+    "createdAt": "2022-05-10T06:06:45.970Z",
+    "updatedAt": "2022-05-10T06:11:33.799Z"
+},
+{
+    "id": "48460775-076f-4dbc-94e9-d855ec3eef2c",
+    "name": "Ariel Missagia",
+    "email": "ariel@teste.com",
+    "createdAt": "2022-05-11T01:26:47.161Z",
+    "updatedAt": "2022-05-11T01:29:39.033Z"
+},
+{
+    "id": "529dcbc0-0114-486d-be24-6c492d9e850e",
+    "name": "Francine Reis",
+    "email": "francine@teste.com",
+    "createdAt": "2022-05-11T01:30:28.572Z",
+    "updatedAt": "2022-05-11T01:30:28.572Z"
+},
+{
+    "id": "53666b3f-c0cb-477b-936e-15164ccf8650",
+    "name": "Pedro Gabriel",
+    "email": "pedro@teste.com",
+    "createdAt": "2022-05-11T01:30:47.401Z",
+    "updatedAt": "2022-05-11T01:30:47.401Z"
+},
+{
+    "id": "102a8ed9-3b19-40b7-b6b6-9010c9474c6e",
+    "name": "Luiza da Rosa",
+    "email": "luiza@teste.com",
+    "createdAt": "2022-05-11T01:30:51.353Z",
+    "updatedAt": "2022-05-11T01:30:51.353Z"
+},
+{
+    "id": "543fc549-4d10-461d-b841-9235748de8a5",
+    "name": "Elma Chips",
+    "email": "elma@teste.com",
+    "createdAt": "2022-05-11T01:31:37.163Z",
+    "updatedAt": "2022-05-11T01:31:37.163Z"
+}]
